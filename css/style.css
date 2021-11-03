@@ -39,7 +39,7 @@ span.datos{
     font-style: italic;
 }
 
-#sobremi {
+.link {
     color: rgba(0, 0, 0, 0.5);
     font-style: italic;
 }
@@ -59,4 +59,21 @@ div.inline{
     background-color: #005677;
     color: white;
     padding: 10px;
+}
+
+.aboutme {
+    background-color: #e2e8f3;   
+    padding: 10px;   
+    font-size: 15px; 
+}
+
+div.first { 
+    
+    display: inline-block;   
+    background-color: #c4c4c4;   
+}
+
+div.second {
+    display: inline-block;  
+    background-color: #c4c4c4;   
 }
