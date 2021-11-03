@@ -1,0 +1,62 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.pic{
+    display: block;
+    width: 100px;
+    height: 146.37px;
+    margin-left: auto;
+    margin-right: auto;  
+    
+}
+h1{
+    background-color: #c4c4c4;
+    color: #005677; 
+    font-size: 20px;
+    font-weight: 700px;
+    font-style: normal;
+    text-align: center;
+    letter-spacing: 0.25em;
+    padding: 10px;
+}
+
+h2.subtitle {
+    background-color: #c4c4c4;
+    color: #005677; 
+    font-size: 14px;
+    font-weight: 700px;
+    font-style: normal;  
+    padding: 7px; 
+}
+
+ul.datos {
+    font-size: 15px;
+    display: inline;    
+}
+
+span.datos{
+    font-weight: bold;
+    font-style: italic;
+}
+
+#sobremi {
+    color: rgba(0, 0, 0, 0.5);
+    font-style: italic;
+}
+div.inline{
+    
+    height: 50px;
+    width: 100px;   
+    float: left;
+    font-weight: bold;
+    font-size: 15px;
+}
+ .white {
+     color: white;
+ }
+.footer{
+    text-align: center;
+    background-color: #005677;
+    color: white;
+    padding: 10px;
+}
